@@ -1,3 +1,3 @@
 .DS_Store
-.cache
+*.tmPreferences.cache
 Syntaxes/Smarty.tmLanguage.cache
